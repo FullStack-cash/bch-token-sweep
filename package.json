@@ -37,7 +37,7 @@
     "title": "bch-token-sweep",
     "url": "localhost:5000"
   },
-  "repository": "Permissionless-Software-Foundation/bch-token-sweep",
+  "repository": "FullStack-cash/bch-token-sweep",
   "dependencies": {
     "bch-donation": "1.1.1",
     "bignumber.js": "9.0.0"
