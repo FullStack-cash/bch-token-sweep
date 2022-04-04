@@ -1,3 +1,9 @@
+# fullstack-bch-token-sweep
+
+This repo was forked from v1.5.16 of [bch-token-sweep](https://github.com/Permissionless-Software-Foundation/bch-token-sweep). This repo uses bch-js primarily, whereas v2+ of bch-token-sweep uses [minimal-slp-wallet](https://www.npmjs.com/search?q=minimal-slp-wallet).
+
+------
+
 # bch-token-sweep
 
 This is a library that allows sweeping of Bitcoin Cash (BCH) and Simple Ledger Protocol (SLP) tokens from a paper wallet. Paper wallets are just a WIF private key embedded inside a QR code. You can generate a paper wallet for BCH at [paperwallet.bitcoin.com](https://paperwallet.bitcoin.com) and SLP tokens at [slp-paper-wallet.fullstack.cash](https://slp-paper-wallet.fullstack.cash/).
